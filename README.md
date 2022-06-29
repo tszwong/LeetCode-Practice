@@ -1,2 +1,2 @@
 # LeetCode-Practice
-My solutions to leetcode problems.
+Doing leetcode practice problems

@@ -1,2 +1,2 @@
 # LeetCode-Practice
-Doing leetcode practice problems in Python
+Doing leetcode problems in Python
